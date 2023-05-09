@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>home.jsp</h1>
-<p>${serverTime}
+<p>${serverTime}   
 </body>
 </html>
